@@ -42,3 +42,11 @@ Es importante diferenciar ambos conceptos:
 ## 1. Git no está instalado
 
 Uno de los primeros problemas que puede aparecer es intentar utilizar Git cuando el programa no está instalado correctamente en el computador.
+
+
+### Solución
+
+Se debe instalar Git y comprobar que funciona correctamente utilizando:
+
+```bash
+git --version
