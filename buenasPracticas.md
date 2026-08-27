@@ -64,4 +64,14 @@ Crear Pull Request
   ↓
 Revisión del código
   ↓
-Merge a main
+Merge a main 
+
+# Buenas Prácticas en Git
+
+## Conclusión sobre las buenas prácticas de Git
+
+En conclusión, aplicar buenas prácticas en Git es fundamental para mantener los proyectos organizados, seguros y fáciles de administrar. Realizar commits claros, utilizar ramas para trabajar en nuevas funcionalidades, revisar los cambios antes de subirlos y mantener actualizado el repositorio ayuda a prevenir errores y conflictos.
+
+Además, utilizar correctamente herramientas como `.gitignore`, `git status`, `git pull` y `git push` permite trabajar de manera más eficiente y reducir el riesgo de perder información. Estas prácticas son especialmente importantes cuando varias personas trabajan en el mismo proyecto, ya que facilitan la colaboración y mantienen un historial de cambios ordenado.
+
+Por esta razón, aprender y aplicar buenas prácticas de Git no solo ayuda a solucionar problemas, sino que también mejora la calidad, seguridad y organización de cualquier proyecto de desarrollo.
