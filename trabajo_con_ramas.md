@@ -35,3 +35,7 @@ Un ejemplo de trabajo en ramas en Git sería el desarrollo de una página web po
 ## Conclusion de trabajo en ramas 
 
 El trabajo en ramas permite organizar mejor un proyecto, trabajar en equipo y realizar cambios sin afectar el código principal. Es una herramienta fundamental de Git para desarrollar de manera segura, ordenada y eficiente.
+
+## Concepto clave adicional: Pull Requests / Merge Requests
+En entornos colaborativos (como GitHub, GitLab o Bitbucket), el paso 5 de tu flujo (Fusionar la rama) no se suele hacer directamente desde la terminal del desarrollador. En su lugar, se abre una Pull Request (PR). Esto permite que los compañeros de equipo revisen el código, hagan comentarios, sugieran cambios y ejecuten pruebas automáticas antes de autorizar la fusión con la rama principal.
+
