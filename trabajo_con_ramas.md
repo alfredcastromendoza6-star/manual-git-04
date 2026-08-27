@@ -39,3 +39,14 @@ El trabajo en ramas permite organizar mejor un proyecto, trabajar en equipo y re
 ## Concepto clave adicional: Pull Requests / Merge Requests
 En entornos colaborativos (como GitHub, GitLab o Bitbucket), el paso 5 de tu flujo (Fusionar la rama) no se suele hacer directamente desde la terminal del desarrollador. En su lugar, se abre una Pull Request (PR). Esto permite que los compañeros de equipo revisen el código, hagan comentarios, sugieran cambios y ejecuten pruebas automáticas antes de autorizar la fusión con la rama principal.
 
+## Un conflicto de fusión (merge conflict)
+ ocurre cuando Git no puede integrar automáticamente los cambios de dos ramas porque ambas han modificado la misma línea en el mismo archivo de maneras distintas, o porque una rama eliminó un archivo que la otra intentó modificar.
+
+- A diferencia de las fusiones automáticas donde Git une el código sin problemas, ante un conflicto el sistema detiene el proceso y te pide a ti, como desarrollador, que decidas manualmente qué cambios conservar y cuáles descartar.
+
+## ¿Por qué ocurre un conflicto?
+Git es muy eficiente uniendo cambios que ocurren en diferentes archivos o en distintas líneas de un mismo archivo. Sin embargo, se produce un conflicto cuando:
+
+-Modificación concurrente de la misma línea: Dos desarrolladores editan exactamente las mismas líneas en un archivo partiendo de la misma base, pero con código diferente.
+
+- Edición vs. Eliminación: Un desarrollador modifica una sección de código en su rama mientras que otro elimina esa misma sección o el archivo completo en otra rama.
