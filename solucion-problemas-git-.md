@@ -59,3 +59,16 @@ En conclusión, Git es una herramienta muy importante para el control de version
 También se puede destacar la importancia de utilizar buenas prácticas, como realizar commits frecuentes, trabajar con ramas, revisar los cambios antes de subirlos y utilizar correctamente `.gitignore`. Además, Markdown facilita la documentación de estos procesos mediante títulos, listas, tablas y bloques de código, haciendo que la información sea más clara, organizada y fácil de comprender.
 
 Por lo tanto, conocer Git y saber solucionar sus problemas permite trabajar de una manera más segura, ordenada y eficiente en proyectos individuales y colaborativos.
+
+---
+
+Git puede presentar problemas como conflictos, errores al hacer push, cambios sin guardar o problemas con las ramas. Para solucionarlos se pueden usar comandos como:
+
+git pull → actualizar el proyecto.
+git add . → preparar los cambios.
+git commit → guardar los cambios.
+git push → subir cambios al repositorio.
+git stash → guardar temporalmente cambios.
+git merge → unir ramas.
+
+En general, leer el mensaje de error y revisar el estado con git status ayuda a identificar y solucionar la mayoría de problemas.
