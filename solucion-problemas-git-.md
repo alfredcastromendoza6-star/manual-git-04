@@ -50,3 +50,12 @@ Se debe instalar Git y comprobar que funciona correctamente utilizando:
 
 ```bash
 git --version
+
+
+## Conclusión
+
+En conclusión, Git es una herramienta muy importante para el control de versiones, ya que permite organizar, guardar y recuperar los cambios realizados en un proyecto. Durante su uso pueden presentarse diferentes problemas, como conflictos entre ramas, errores al realizar `push`, archivos modificados accidentalmente o problemas con los repositorios remotos. Sin embargo, Git cuenta con comandos que permiten identificar y solucionar estas situaciones de manera eficiente.
+
+También se puede destacar la importancia de utilizar buenas prácticas, como realizar commits frecuentes, trabajar con ramas, revisar los cambios antes de subirlos y utilizar correctamente `.gitignore`. Además, Markdown facilita la documentación de estos procesos mediante títulos, listas, tablas y bloques de código, haciendo que la información sea más clara, organizada y fácil de comprender.
+
+Por lo tanto, conocer Git y saber solucionar sus problemas permite trabajar de una manera más segura, ordenada y eficiente en proyectos individuales y colaborativos.
