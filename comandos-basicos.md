@@ -19,4 +19,4 @@ Estos comandos permiten **controlar las diferentes versiones de un proyecto**, m
 
 ## Conclusión
 
-Los comandos básicos de **Git y GitHub** son herramientas fundamentales para el desarrollo de software. Permiten administrar proyectos, guardar cambios, trabajar con diferentes versiones y colaborar con otras personas de manera organizada. Aprender estos comandos es importante para cualquier persona que quiera comenzar a trabajar con **programación y desarrollo de software**.
+Los comandos básicos de **Git y GitHub** son herramientas fundamentales para el desarrollo de software. Permiten administrar proyectos, guardar cambios, trabajar con diferentes versiones y colaborar con otras personas de manera organizada. Aprender estos comandos es importante para cualquier persona que quiera comenzar a trabajar con **programación y desarrollo de software **.
