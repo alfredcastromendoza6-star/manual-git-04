@@ -20,3 +20,11 @@ Algunas prácticas importantes son:
 - No subir contraseñas ni información privada.
 - Utilizar Pull Requests para revisar los cambios.
 - Evitar trabajar directamente sobre la rama principal.
+
+---
+
+## 3. Introducción
+
+Git es una herramienta muy utilizada en el desarrollo de software porque permite controlar las diferentes versiones de un proyecto. Gracias a Git, los desarrolladores pueden registrar los cambios, recuperar versiones anteriores y trabajar simultáneamente en un mismo proyecto.
+
+Por esta razón, es importante conocer y aplicar buenas prácticas en Git. Estas permiten mantener un proyecto organizado y reducir los problemas que pueden aparecer durante el desarrollo.
