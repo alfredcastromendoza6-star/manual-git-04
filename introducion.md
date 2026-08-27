@@ -40,3 +40,27 @@ Al centralizar la inteligencia colectiva del software libre, GitHub dejó de ser
 * **La diferencia vital:** Es fundamental recordar que **Git** es la tecnología subyacente que opera en tu computadora para rastrear cambios, mientras que **GitHub** es la plataforma web que centraliza, aloja y añade una capa de colaboración social a esos repositorios de Git.
 
 * **Desarrollo asistido por Inteligencia Artificial:** Con la integración avanzada de herramientas como **GitHub Copilot**, la plataforma no solo almacena código, sino que actúa como un asistente inteligente capaz de sugerir líneas de código, completar funciones y acelerar drásticamente los flujos de trabajo de los desarrolladores.
+
+
+# Resumen de Git y GitHub
+
+## Introducción
+Git y GitHub son herramientas utilizadas para **crear, guardar, controlar y compartir proyectos de software**. Git permite controlar las versiones de un proyecto, mientras que GitHub permite almacenarlo en línea y colaborar con otros desarrolladores.
+
+## Comandos básicos
+Los comandos básicos permiten administrar los cambios de un proyecto. Algunos de los más importantes son `git init` para crear un repositorio, `git clone` para copiarlo, `git add` para preparar cambios, `git commit` para guardarlos, `git push` para subirlos a GitHub y `git pull` para descargar actualizaciones.
+
+## Trabajo con ramas
+Las **ramas (branches)** permiten trabajar en diferentes partes de un proyecto sin modificar directamente la versión principal. Se pueden crear con `git branch` y combinar posteriormente utilizando `git merge`.
+
+## Solución de problemas
+Git permite solucionar problemas relacionados con cambios, errores o conflictos. Comandos como `git status`, `git log` y `git diff` ayudan a identificar qué ocurrió y revisar las modificaciones realizadas.
+
+## Buenas prácticas
+Es recomendable realizar **commits pequeños y claros**, utilizar nombres descriptivos para las ramas, revisar los cambios antes de subirlos y mantener el proyecto actualizado. También es importante evitar subir información privada o contraseñas al repositorio.
+
+## Conceptos básicos
+Algunos conceptos importantes son **repositorio**, que contiene el proyecto y su historial; **commit**, que guarda un cambio; **branch**, que representa una línea de trabajo; **merge**, que combina ramas; y **repositorio remoto**, que permite almacenar el proyecto en plataformas como GitHub.
+
+## Conclusión
+Git y GitHub facilitan el **control de versiones, la organización y la colaboración** en proyectos de software, por lo que son herramientas fundamentales para los desarrolladores.
