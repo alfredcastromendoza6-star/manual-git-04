@@ -66,3 +66,9 @@ Ocurre cuando Git no puede unificar automáticamente dos líneas de código **(p
 -   Rebase: `git rebase`integra los cambios de una rama en otra moviendo o combinando confirmaciones.
 
 -   Resolución de conflictos: Los conflictos se pueden resolver editando manualmente los archivos en conflicto y confirmando los cambios.
+
+## Conclusión
+
+En conclusión, **Git y GitHub son herramientas fundamentales para el desarrollo de software moderno**, ya que permiten controlar, organizar y compartir los cambios realizados en un proyecto. Git facilita el seguimiento de versiones mediante conceptos como **repositorios, commits, ramas y fusiones**, mientras que GitHub amplía estas capacidades al ofrecer un entorno colaborativo para compartir código, revisar cambios y gestionar incidencias.
+
+El dominio de comandos como `git add`, `git commit`, `git push`, `git pull`, `git merge` y `git rebase` permite trabajar de manera más organizada, eficiente y segura. En conjunto, Git y GitHub favorecen la **colaboración, la trazabilidad y la recuperación de proyectos**, convirtiéndose en conocimientos esenciales para cualquier persona dedicada al desarrollo de software.
