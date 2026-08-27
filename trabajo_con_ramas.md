@@ -29,3 +29,7 @@ Esto permite que varias personas trabajen al mismo tiempo en diferentes partes d
 * Organización: cada rama puede representar una función, corrección o experimento.
 
 ## Ejemplo de el trabajo con ramas
+
+## Conclusion de trabajo en ramas 
+
+El trabajo en ramas permite organizar mejor un proyecto, trabajar en equipo y realizar cambios sin afectar el código principal. Es una herramienta fundamental de Git para desarrollar de manera segura, ordenada y eficiente.
