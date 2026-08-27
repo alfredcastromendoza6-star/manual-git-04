@@ -64,9 +64,7 @@ Crear Pull Request
   ↓
 Revisión del código
   ↓
-Merge a main 
-
-# Buenas Prácticas en Git
+Merge a main
 
 ## Conclusión sobre las buenas prácticas de Git
 
