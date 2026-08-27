@@ -20,3 +20,10 @@ Un flujo de trabajo básico con ramas es:
 
 Esto permite que varias personas trabajen al mismo tiempo en diferentes partes de un proyecto.
 
+## Ventajas de trabajar con ramas
+
+* Trabajo independiente: cada desarrollador puede trabajar en una función diferente.
+* Seguridad: los cambios no afectan inmediatamente al código principal.
+* Trabajo colaborativo: varias personas pueden desarrollar simultáneamente.
+* Revisión del código: los cambios pueden revisarse antes de incorporarlos al proyecto.
+* Organización: cada rama puede representar una función, corrección o experimento.
