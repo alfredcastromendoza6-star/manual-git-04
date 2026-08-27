@@ -27,3 +27,5 @@ Esto permite que varias personas trabajen al mismo tiempo en diferentes partes d
 * Trabajo colaborativo: varias personas pueden desarrollar simultáneamente.
 * Revisión del código: los cambios pueden revisarse antes de incorporarlos al proyecto.
 * Organización: cada rama puede representar una función, corrección o experimento.
+
+## Ejemplo de el trabajo con ramas
